@@ -1,0 +1,1793 @@
+﻿Log file open, 11/11/17 11:49:10
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TestLeapMotion
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1949967870) SRandInit(1949967870).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3709383, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.511767
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LeapMotion/Binaries/Win64/UE4Editor-LeapMotion.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LeapMotion
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LeapPluginLog: Using LeapPlugin version 2.0.0
+LogInit: Build: ++UE4+Release-4.18-CL-3709383
+LogInit: Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Oct 20 2017 10:39:19
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.11-10.49.15:456][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.11-10.49.15:456][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.11-10.49.15:708][  0]LogInit: Computer: NICO
+[2017.11.11-10.49.15:709][  0]LogInit: User: Nicolas
+[2017.11.11-10.49.15:709][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.11-10.49.15:709][  0]LogInit: High frequency timer resolution =3.417968 MHz
+[2017.11.11-10.49.15:711][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.11.11-10.49.15:711][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.11-10.49.15:711][  0]LogMemory: Process Physical Memory: 275.58 MB used, 275.58 MB peak
+[2017.11.11-10.49.15:711][  0]LogMemory: Process Virtual Memory: 270.71 MB used, 270.71 MB peak
+[2017.11.11-10.49.15:711][  0]LogMemory: Physical Memory: 6434.14 MB used,  9810.85 MB free, 16244.99 MB total
+[2017.11.11-10.49.15:711][  0]LogMemory: Virtual Memory: 696.50 MB used,  9810.85 MB free, 134217728.00 MB total
+[2017.11.11-10.49.17:251][  0]LogInit: Using OS detected language (fr-FR).
+[2017.11.11-10.49.17:251][  0]LogInit: Using OS detected locale (fr-FR).
+[2017.11.11-10.49.17:434][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the language.
+[2017.11.11-10.49.17:435][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the locale.
+[2017.11.11-10.49.18:274][  0]LogInit: Setting process to per monitor DPI aware
+[2017.11.11-10.49.23:578][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.11-10.49.23:601][  0]LogD3D11RHI:    0. 'AMD Radeon R9 200 Series' (Feature Level 11_0)
+[2017.11.11-10.49.23:601][  0]LogD3D11RHI:       4073/0/8122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2017.11.11-10.49.23:606][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2017.11.11-10.49.23:606][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.11.11-10.49.23:607][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.11-10.49.23:607][  0]LogD3D11RHI:       0/0/8122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.11-10.49.23:607][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.11-10.49.23:613][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.11-10.49.23:613][  0]LogD3D11RHI:     GPU DeviceId: 0x67b0 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.11-10.49.23:636][  0]LogWindows: EnumDisplayDevices:
+[2017.11.11-10.49.23:637][  0]LogWindows:    0. 'AMD Radeon R9 200 Series' (P:1 D:1)
+[2017.11.11-10.49.23:637][  0]LogWindows:    1. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.11.11-10.49.23:637][  0]LogWindows:    2. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.11.11-10.49.23:637][  0]LogWindows:    3. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.11.11-10.49.23:637][  0]LogWindows:    4. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.11.11-10.49.23:637][  0]LogWindows:    5. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.11.11-10.49.23:638][  0]LogWindows:    6. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.11.11-10.49.23:638][  0]LogWindows:    7. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.11.11-10.49.23:638][  0]LogWindows:    8. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.11.11-10.49.23:638][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:6 
+[2017.11.11-10.49.23:638][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R9 200 Series
+[2017.11.11-10.49.23:638][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.1.1 (internal:22.19.162.4, unified:22.19.162.4)
+[2017.11.11-10.49.23:638][  0]LogD3D11RHI:      Driver Date: 4-24-2017
+[2017.11.11-10.49.23:638][  0]LogRHI: Texture pool is 2851 MB (70% of 4073 MB)
+[2017.11.11-10.49.23:760][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.11-10.49.24:115][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2017.11.11-10.49.24:255][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (../../../../../../Users/Nicolas/Documents/LeapMotionGit/tmp_arvr/Intermediate/Shaders/WorkingDirectory/8184/).
+[2017.11.11-10.49.24:255][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Nicolas/AppData/Local/Temp/UnrealShaderWorkingDir/A53B649846E05E6CBD03538CEE535517/'.
+[2017.11.11-10.49.24:256][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.11-10.49.29:489][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.11-10.49.29:621][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.11-10.49.29:669][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.11-10.49.29:715][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.11-10.49.29:834][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.11-10.49.29:897][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.11-10.49.29:942][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.11-10.49.29:988][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.11-10.49.30:057][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.11-10.49.30:106][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.11-10.49.30:151][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.11-10.49.30:243][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.11-10.49.30:349][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.11-10.49.30:437][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.11-10.49.30:607][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.11-10.49.30:607][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.11-10.49.30:725][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.11-10.49.30:822][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.11-10.49.30:987][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.11-10.49.31:024][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.11-10.49.31:071][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.11-10.49.31:157][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.11-10.49.31:253][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.11-10.49.31:305][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.11-10.49.31:306][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.11-10.49.32:924][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.11-10.49.33:637][  0]LogDerivedDataCache: Loaded boot cache 0.69s 78MB C:/Users/Nicolas/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.11-10.49.33:637][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Nicolas/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.11.11-10.49.33:637][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Nicolas/Documents/LeapMotionGit/tmp_arvr/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.11-10.49.33:637][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.11-10.49.33:637][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Nicolas/Documents/LeapMotionGit/tmp_arvr/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.11-10.49.33:637][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.11-10.49.34:209][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.11-10.49.34:249][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Nicolas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.11-10.49.34:392][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.11-10.49.34:493][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.11-10.49.34:620][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.11-10.49.34:625][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.11-10.49.42:378][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.11-10.49.44:980][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.11-10.49.45:056][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.11-10.49.45:056][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.11-10.49.45:056][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.11-10.49.45:056][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.11-10.49.45:056][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.11-10.49.46:127][  0]LogNetVersion: TestLeapMotion , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3734202621)
+[2017.11.11-10.49.48:009][  0]LogAssetRegistry: FAssetRegistry took 0.0731 seconds to start up
+[2017.11.11-10.49.58:114][  0]LogPackageLocalizationCache: Processed 8 localized package path(s) for 1 prioritized culture(s) in 0.168627 seconds
+[2017.11.11-10.49.58:190][  0]LogUObjectArray: 36585 objects as part of root set at end of initial load.
+[2017.11.11-10.49.58:192][  0]LogUObjectAllocator: 7488872 out of 0 bytes used by permanent object pool.
+[2017.11.11-10.49.58:192][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.11-10.49.58:281][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.11-10.50.13:954][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.11-10.50.14:058][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.11-10.50.16:192][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.11-10.50.18:398][  0]SourceControl: Source control is disabled
+[2017.11.11-10.50.18:408][  0]SourceControl: Source control is disabled
+[2017.11.11-10.50.18:530][  0]SourceControl: Source control is disabled
+[2017.11.11-10.50.18:634][  0]SourceControl: Source control is disabled
+[2017.11.11-10.50.20:505][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.11-10.50.20:953][  0]LogOcInput: OculusInput pre-init called
+[2017.11.11-10.50.22:827][  0]LogEngine: Initializing Engine...
+[2017.11.11-10.50.22:964][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.11-10.50.24:631][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.11-10.50.24:631][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.11-10.50.25:423][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.11-10.50.25:814][  0]LogInit: XAudio2 using '1 - PLG2488H (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.11-10.50.25:904][  0]LogInit: FAudioDevice initialized.
+[2017.11.11-10.50.26:107][  0]LogDerivedDataCache: Saved boot cache 0.16s 78MB C:/Users/Nicolas/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.11-10.50.26:125][  0]LogInit: Texture streaming: Enabled
+[2017.11.11-10.50.26:446][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.11-10.50.26:864][  0]LogInit: Transaction tracking system initialized
+[2017.11.11-10.50.27:457][  0]BlueprintLog: New page: Editor Load
+[2017.11.11-10.50.31:263][  0]LocalizationService: Localization service is disabled
+[2017.11.11-10.50.33:554][  0]LogConsoleResponse: Display: 
+[2017.11.11-10.50.38:288][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nicolas/Documents/LeapMotionGit/tmp_arvr/Content/' took 0.06s
+[2017.11.11-10.50.38:288][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.11-10.50.38:289][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.11-10.50.38:297][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.11-10.50.41:704][  0]SourceControl: Source control is disabled
+[2017.11.11-10.50.41:733][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Nicolas/Documents/LeapMotionGit/tmp_arvr/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.11-10.50.41:801][  0]LightingResults: New page: Lighting Build
+[2017.11.11-10.50.42:206][  0]MapCheck: New page: Map Check
+[2017.11.11-10.50.42:206][  0]LightingResults: New page: Lighting Build
+[2017.11.11-10.50.47:544][  0]LogBlueprint: Warning: [Compiler PostProcessChanger] Override pins have been removed from  Break PostProcessSettings  in  PostProcessChanger , please verify the Blueprint works as expected! See tooltips for enabling pin visibility for more details. This warning will go away after you resave the asset!
+[2017.11.11-10.50.47:614][  0]LogBlueprint: Warning: [Compiler PostProcessChanger] [0113.16] Compile of PostProcessChanger successful, but with 1 Warning(s) [in 200 ms] (/LeapMotion/Blueprints/Utility/PostProcessChanger.PostProcessChanger)
+[2017.11.11-10.50.49:037][  0]LogBlueprint: Warning: [Compiler LeapMotionCharacter] InputAction Event references unknown Action 'ComfortTurnRight' for  InputAction ComfortTurnRight
+[2017.11.11-10.50.49:037][  0]LogBlueprint: Warning: [Compiler LeapMotionCharacter] InputAction Event references unknown Action 'ComfortTurnLeft' for  InputAction ComfortTurnLeft
+[2017.11.11-10.50.49:037][  0]LogBlueprint: Warning: [Compiler LeapMotionCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2017.11.11-10.50.49:037][  0]LogBlueprint: Warning: [Compiler LeapMotionCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2017.11.11-10.50.49:038][  0]LogBlueprint: Warning: [Compiler LeapMotionCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2017.11.11-10.50.49:038][  0]LogBlueprint: Warning: [Compiler LeapMotionCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2017.11.11-10.50.49:038][  0]LogBlueprint: Warning: [Compiler LeapMotionCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2017.11.11-10.50.49:039][  0]LogBlueprint: Warning: [Compiler LeapMotionCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2017.11.11-10.50.49:039][  0]LogBlueprint: Warning: [Compiler LeapMotionCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2017.11.11-10.50.49:138][  0]LogBlueprint: Warning: [Compiler LeapMotionCharacter] [0114.69] Compile of LeapMotionCharacter successful, but with 9 Warning(s) [in 154 ms] (/Game/LeapMotionCharacter.LeapMotionCharacter)
+[2017.11.11-10.50.55:365][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.11.11-10.50.56:882][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.11-10.50.57:578][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.11-10.50.57:668][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 89.879ms to complete.
+[2017.11.11-10.50.57:676][  0]LogFileHelpers: Loading map 'Minimal_Default' took 15.951
+[2017.11.11-10.50.59:625][  0]LogCollectionManager: Loaded 0 collections in 0.001771 seconds
+[2017.11.11-10.50.59:799][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nicolas/Documents/LeapMotionGit/tmp_arvr/Saved/Collections/' took 0.01s
+[2017.11.11-10.50.59:799][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nicolas/Documents/LeapMotionGit/tmp_arvr/Content/Developers/Nicolas/Collections/' took 0.01s
+[2017.11.11-10.50.59:799][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nicolas/Documents/LeapMotionGit/tmp_arvr/Content/Collections/' took 0.01s
+[2017.11.11-10.50.59:799][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.11.11-10.50.59:808][  0]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2390 classes and 523 folders.
+[2017.11.11-10.51.00:068][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.11.11-10.51.01:410][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.11.11-10.51.01:544][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.11.11-10.51.03:000][  0]LogSlate: Took 0.038241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.11-10.51.03:055][  0]LogSlate: Took 0.036572 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.11-10.51.03:201][  0]LogSlate: Took 0.033202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.11-10.51.04:100][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2017.11.11-10.51.04:922][  0]LogSlate: Took 0.014418 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.11-10.51.05:518][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2017.11.11-10.51.05:518][  0]LogLoad: (Engine Initialization) Total time: 131.07 seconds
+[2017.11.11-10.51.05:518][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.11-10.51.05:560][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.11.11-10.51.06:644][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.11-10.51.07:608][  2]LogSlate: Took 0.000483 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.11-10.51.08:662][  4]LogAssetRegistry: Asset discovery search completed in 80.7049 seconds
+[2017.11.11-10.51.08:706][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.11.11-10.51.08:706][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.020386 seconds (updated 0 objects)
+[2017.11.11-10.52.26:914][239]LogInit: XAudio2 using 'Haut-parleurs (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2017.11.11-10.56.05:796][839]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.11.11-10.56.06:008][839]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.11.11-10.56.06:017][839]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.11-10.56.06:137][839]PIE: New page: PIE session: Minimal_Default (Nov 11, 2017, 12:56:06 PM)
+[2017.11.11-10.56.06:160][839]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.11.11-10.56.06:292][839]LogPlayLevel: PIE: StaticDuplicateObject took: (0.132341s)
+[2017.11.11-10.56.06:293][839]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.11.11-10.56.06:323][839]LogPlayLevel: PIE: World Init took: (0.029934s)
+[2017.11.11-10.56.06:328][839]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.168284s)
+[2017.11.11-10.56.06:391][839]LogInit: XAudio2 using 'Haut-parleurs (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2017.11.11-10.56.06:395][839]LogInit: FAudioDevice initialized.
+[2017.11.11-10.56.06:548][839]LogLoad: Game class is 'TestLeapMotion_C'
+[2017.11.11-10.56.06:731][839]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.11.11-11.56.06
+[2017.11.11-10.56.06:797][839]LogWorld: Bringing up level for play took: 0.067086
+[2017.11.11-10.56.07:120][839]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0100 seconds. Added 11 classes and 0 folders.
+[2017.11.11-10.56.07:212][839]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2017.11.11-10.56.07:567][839]Cmd: stereo reset
+[2017.11.11-10.56.07:786][839]Command not recognized: stereo reset
+[2017.11.11-10.56.07:787][839]LeapPluginLog: InterfaceObject: LeapMotionCharacter_C_0
+[2017.11.11-10.56.07:796][839]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1.197
+[2017.11.11-10.56.07:800][839]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.11.11-10.56.08:143][839]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2017.11.11-10.56.08:930][917]LogScriptCore: Warning: Script Msg: Divide by zero detected: 24.999998 / 0
+Script call stack:
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:ExecuteUbergraph_LeapEchoHands_AnimBlueprint
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:Set Scaling If Enabled
+
+[2017.11.11-10.56.08:930][917]LogScriptCore: Warning: Script Msg: Divide by zero detected: 24.999998 / 0
+Script call stack:
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:ExecuteUbergraph_LeapEchoHands_AnimBlueprint
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:Set Scaling If Enabled
+
+[2017.11.11-10.56.10:963][ 60]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-10.56.10:972][ 61]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-10.56.10:984][ 62]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-10.56.10:994][ 63]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-10.56.11:003][ 64]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-10.56.11:011][ 65]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-10.56.11:020][ 66]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-10.56.11:031][ 67]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-10.56.11:040][ 68]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-10.56.11:051][ 69]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-10.56.11:059][ 70]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-10.56.13:544][331]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Inventory : Open
+[2017.11.11-10.56.17:085][690]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Inventory : Close
+[2017.11.11-10.56.17:220][703]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Inventory : Open
+[2017.11.11-10.56.17:241][705]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Inventory : Close
+[2017.11.11-10.56.17:262][707]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Inventory : Open
+[2017.11.11-10.56.17:270][708]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Inventory : Close
+[2017.11.11-10.56.17:650][752]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.11.11-10.56.17:968][752]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.11.11-11.17.57:451][644]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.11-11.17.58:221][644]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.11-11.17.58:449][644]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2017.11.11-11.18.03:992][841]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2017.11.11-11.18.04:049][841]LogSlate: Took 0.040581 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.11-11.18.04:931][842]LogSlate: Took 0.004537 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.11-11.28.07:659][739]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.11.11-11.28.07:689][739]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.11.11-11.28.07:702][739]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.11-11.28.07:703][739]PIE: New page: PIE session: Minimal_Default (Nov 11, 2017, 1:28:07 PM)
+[2017.11.11-11.28.07:703][739]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.11.11-11.28.07:711][739]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008014s)
+[2017.11.11-11.28.07:711][739]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.11.11-11.28.07:713][739]LogPlayLevel: PIE: World Init took: (0.001940s)
+[2017.11.11-11.28.07:713][739]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.010700s)
+[2017.11.11-11.28.07:805][739]LogInit: XAudio2 using 'Haut-parleurs (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2017.11.11-11.28.07:808][739]LogInit: FAudioDevice initialized.
+[2017.11.11-11.28.07:855][739]LogLoad: Game class is 'TestLeapMotion_C'
+[2017.11.11-11.28.07:857][739]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.11.11-12.28.07
+[2017.11.11-11.28.07:857][739]LogWorld: Bringing up level for play took: 0.000975
+[2017.11.11-11.28.07:858][739]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2017.11.11-11.28.07:861][739]Cmd: stereo reset
+[2017.11.11-11.28.07:861][739]Command not recognized: stereo reset
+[2017.11.11-11.28.07:861][739]LeapPluginLog: InterfaceObject: LeapMotionCharacter_C_0
+[2017.11.11-11.28.07:869][739]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.73
+[2017.11.11-11.28.07:881][739]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.11.11-11.28.08:504][774]LogScriptCore: Warning: Script Msg: Divide by zero detected: 26.738703 / 0
+Script call stack:
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:ExecuteUbergraph_LeapEchoHands_AnimBlueprint
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:Set Scaling If Enabled
+
+[2017.11.11-11.28.08:504][774]LogScriptCore: Warning: Script Msg: Divide by zero detected: 26.738703 / 0
+Script call stack:
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:ExecuteUbergraph_LeapEchoHands_AnimBlueprint
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:Set Scaling If Enabled
+
+[2017.11.11-11.28.08:611][781]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.08:627][782]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.08:627][782]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.08:627][782]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.08:643][783]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.08:643][783]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.08:643][783]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.08:659][784]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.08:659][784]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.08:680][785]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.08:680][785]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.08:699][786]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.08:699][786]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.08:699][786]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.08:716][787]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.08:716][787]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.08:716][787]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.08:732][788]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.08:732][788]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.08:732][788]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.08:747][789]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.08:747][789]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.08:747][789]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.08:763][790]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.08:763][790]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.08:764][790]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.08:783][791]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.08:783][791]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.08:800][792]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.08:800][792]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.08:817][793]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.09:693][844]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.09:712][845]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.09:712][845]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.09:732][846]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.09:732][846]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.09:732][846]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.09:750][847]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.09:750][847]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.09:750][847]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.09:766][848]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.09:766][848]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.09:766][848]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.09:782][849]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.09:782][849]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.09:782][849]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.09:799][850]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.09:800][850]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.09:800][850]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.09:818][851]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.09:818][851]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.09:818][851]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.09:838][852]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.09:857][853]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.12:051][988]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Inventory : Open
+[2017.11.11-11.28.15:199][187]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Inventory : Close
+[2017.11.11-11.28.15:609][213]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.15:625][214]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.15:640][215]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.15:656][216]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.15:671][217]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.15:748][222]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Inventory : Open
+[2017.11.11-11.28.16:242][253]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Inventory : Close
+[2017.11.11-11.28.17:233][315]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Inventory : Open
+[2017.11.11-11.28.20:727][535]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Inventory : Close
+[2017.11.11-11.28.22:965][676]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.22:981][677]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.22:998][678]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.23:014][679]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.23:029][680]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.23:044][681]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.23:059][682]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.23:074][683]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.23:090][684]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.23:105][685]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.23:120][686]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:217][755]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:217][755]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:217][755]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:232][756]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:232][756]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:232][756]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:232][756]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:248][757]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:248][757]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:248][757]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:248][757]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:263][758]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:263][758]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:263][758]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:263][758]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:279][759]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:279][759]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:279][759]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:279][759]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:295][760]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:295][760]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:295][760]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:295][760]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:311][761]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:311][761]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:311][761]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:311][761]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:327][762]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:327][762]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:328][762]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:343][763]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:343][763]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:343][763]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:343][763]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:360][764]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:360][764]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:360][764]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:360][764]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:377][765]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:377][765]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:377][765]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:377][765]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:394][766]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:394][766]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:394][766]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:394][766]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:410][767]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:410][767]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:410][767]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:410][767]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:427][768]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:427][768]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:427][768]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:427][768]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:442][769]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:442][769]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.24:442][769]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:621][901]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:622][901]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:622][901]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:622][901]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:622][901]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:638][902]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:638][902]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:638][902]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:638][902]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:638][902]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:658][903]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:658][903]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:658][903]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:658][903]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:658][903]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:674][904]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:674][904]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:674][904]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:674][904]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:674][904]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:692][905]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:692][905]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:692][905]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:692][905]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:692][905]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:708][906]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:709][906]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:709][906]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:709][906]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:709][906]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:724][907]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:724][907]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:724][907]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:724][907]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:724][907]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:740][908]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:740][908]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:740][908]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:740][908]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:740][908]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:758][909]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:759][909]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:759][909]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:776][910]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:776][910]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:776][910]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:794][911]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:794][911]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:794][911]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:810][912]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.26:811][912]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:501][130]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:517][131]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:517][131]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:517][131]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:517][131]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:517][131]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:517][131]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:534][132]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:534][132]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:534][132]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:534][132]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:534][132]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:534][132]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:550][133]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:550][133]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:550][133]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:550][133]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:550][133]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:550][133]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:565][134]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:565][134]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:565][134]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:565][134]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:565][134]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:565][134]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:582][135]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:582][135]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:582][135]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:582][135]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:582][135]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:582][135]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:599][136]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:599][136]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:599][136]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:599][136]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:599][136]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:599][136]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:615][137]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:615][137]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:615][137]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:615][137]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:616][137]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:616][137]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:632][138]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:632][138]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:632][138]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:632][138]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:633][138]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:633][138]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:649][139]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:649][139]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:649][139]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:649][139]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:649][139]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:649][139]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:649][139]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:649][139]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:667][140]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:667][140]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:667][140]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:667][140]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:667][140]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:667][140]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:667][140]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:667][140]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:667][140]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:667][140]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:685][141]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:685][141]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:685][141]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:685][141]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:685][141]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:685][141]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:685][141]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:685][141]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:685][141]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:685][141]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:701][142]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:701][142]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:701][142]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:701][142]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:701][142]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:701][142]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:701][142]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:701][142]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:701][142]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:701][142]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:719][143]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:719][143]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:719][143]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:719][143]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:719][143]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:719][143]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:719][143]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:719][143]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:719][143]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:719][143]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:737][144]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:737][144]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:737][144]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:737][144]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:737][144]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:737][144]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:737][144]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:737][144]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:737][144]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:737][144]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:754][145]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:754][145]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:754][145]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:754][145]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:754][145]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:754][145]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:754][145]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:754][145]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:754][145]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:754][145]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:771][146]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:771][146]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:771][146]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:771][146]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:771][146]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:771][146]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:771][146]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:771][146]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:771][146]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:771][146]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:787][147]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:787][147]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:787][147]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:787][147]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:787][147]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:788][147]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:788][147]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:788][147]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:788][147]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:788][147]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:805][148]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:805][148]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:805][148]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:805][148]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:805][148]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:805][148]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:805][148]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:805][148]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:805][148]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:805][148]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:822][149]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:822][149]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:822][149]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:822][149]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:822][149]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:822][149]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:822][149]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:822][149]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:822][149]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:822][149]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:840][150]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:840][150]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:840][150]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:840][150]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:840][150]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:840][150]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:840][150]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:840][150]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:840][150]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:840][150]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:858][151]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:858][151]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:858][151]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:858][151]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:858][151]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:858][151]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:858][151]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:858][151]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:858][151]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:859][151]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:878][152]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:878][152]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:878][152]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:878][152]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:878][152]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:878][152]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:878][152]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:878][152]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:878][152]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:878][152]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:899][153]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:899][153]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:899][153]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:899][153]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:899][153]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:899][153]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:899][153]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:899][153]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:899][153]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:899][153]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:916][154]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:916][154]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:916][154]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:916][154]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:917][154]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:917][154]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:917][154]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:917][154]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:917][154]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:917][154]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:933][155]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:933][155]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:933][155]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:933][155]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:933][155]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:933][155]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:933][155]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:933][155]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:933][155]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:933][155]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:950][156]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:950][156]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:950][156]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:950][156]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:950][156]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:950][156]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:950][156]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:950][156]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:950][156]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:950][156]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:967][157]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:967][157]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:967][157]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:967][157]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:967][157]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:967][157]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:967][157]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:967][157]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:986][158]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:986][158]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:986][158]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:986][158]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.30:986][158]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:246][173]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:264][174]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:264][174]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:264][174]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:281][175]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:281][175]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:281][175]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:281][175]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:301][176]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:301][176]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:301][176]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:301][176]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:301][176]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:320][177]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:320][177]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:320][177]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:320][177]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:320][177]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:337][178]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:337][178]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:337][178]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:337][178]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:337][178]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:353][179]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:353][179]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:353][179]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:353][179]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:353][179]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:370][180]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:370][180]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:370][180]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:370][180]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:370][180]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:386][181]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:386][181]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:386][181]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:387][181]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:387][181]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:405][182]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:405][182]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:405][182]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:405][182]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:406][182]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:421][183]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:421][183]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:421][183]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:421][183]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:421][183]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:438][184]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:438][184]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:438][184]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:438][184]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:438][184]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:454][185]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:454][185]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:454][185]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:454][185]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:454][185]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:471][186]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:471][186]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:471][186]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:471][186]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:471][186]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:488][187]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:488][187]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:488][187]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:488][187]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:488][187]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:507][188]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:507][188]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:507][188]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:507][188]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:525][189]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:525][189]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:525][189]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:525][189]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:543][190]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:543][190]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:543][190]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:543][190]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:560][191]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:560][191]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:560][191]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:576][192]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:577][192]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:577][192]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:593][193]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:594][193]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:594][193]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:594][193]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:610][194]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:610][194]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:610][194]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:610][194]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:627][195]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:627][195]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:627][195]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:627][195]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:644][196]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:644][196]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:661][197]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:661][197]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:879][210]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:895][211]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:912][212]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:912][212]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:929][213]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:929][213]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:945][214]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:945][214]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:945][214]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:961][215]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:961][215]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:961][215]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:979][216]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:979][216]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:979][216]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:996][217]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:996][217]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.31:996][217]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:018][218]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:018][218]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:018][218]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:036][219]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:036][219]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:036][219]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:054][220]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:054][220]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:054][220]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:070][221]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:070][221]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:070][221]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:086][222]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:458][242]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:475][243]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:491][244]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:491][244]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:508][245]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:508][245]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:524][246]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:524][246]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:542][247]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:542][247]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:559][248]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:559][248]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:559][248]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:575][249]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:575][249]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:575][249]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:592][250]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:592][250]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:592][250]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:609][251]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:609][251]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:609][251]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:625][252]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:625][252]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:625][252]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:643][253]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:643][253]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:643][253]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:661][254]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:661][254]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:661][254]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:677][255]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:677][255]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:677][255]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:694][256]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:694][256]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:694][256]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:712][257]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:712][257]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:712][257]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:728][258]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:728][258]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:728][258]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:746][259]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.32:746][259]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:272][538]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:298][539]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:315][540]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:333][541]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:352][542]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:370][543]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:867][573]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:868][573]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:868][573]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:868][573]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:883][574]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:883][574]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:884][574]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:884][574]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:902][575]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:902][575]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:903][575]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:903][575]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:903][575]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:919][576]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:919][576]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:919][576]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:919][576]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:919][576]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:936][577]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:936][577]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:936][577]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:936][577]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:936][577]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:936][577]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:953][578]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:953][578]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:953][578]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:953][578]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:953][578]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:953][578]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:968][579]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:969][579]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:969][579]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:969][579]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:969][579]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:986][580]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:986][580]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.37:986][580]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:005][581]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:005][581]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:005][581]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:022][582]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:140][589]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:140][589]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:158][590]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:158][590]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:176][591]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:176][591]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:176][591]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:193][592]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:193][592]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:193][592]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:210][593]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:211][593]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:211][593]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:229][594]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:229][594]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:229][594]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:229][594]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:246][595]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:246][595]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:246][595]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:246][595]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:246][595]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:246][595]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:263][596]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:263][596]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:263][596]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:263][596]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:263][596]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:263][596]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:279][597]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:279][597]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:279][597]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:279][597]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:279][597]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:279][597]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:280][597]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:297][598]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:297][598]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:297][598]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:297][598]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:297][598]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:297][598]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:297][598]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:297][598]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:297][598]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:316][599]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:316][599]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:316][599]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:316][599]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:316][599]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:316][599]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:316][599]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:316][599]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:316][599]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:334][600]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:334][600]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:334][600]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:334][600]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:334][600]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:334][600]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:334][600]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:334][600]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:334][600]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:352][601]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:352][601]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:352][601]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:352][601]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:353][601]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:353][601]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:353][601]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:353][601]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:353][601]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:370][602]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:371][602]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:371][602]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:371][602]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:371][602]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:371][602]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:371][602]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:371][602]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:371][602]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:387][603]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:387][603]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:387][603]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:387][603]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:387][603]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:387][603]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:387][603]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:387][603]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:387][603]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:405][604]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:406][604]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:406][604]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:406][604]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:406][604]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:406][604]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:406][604]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:406][604]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:406][604]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:426][605]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:426][605]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:426][605]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:426][605]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:426][605]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:426][605]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:426][605]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:426][605]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:426][605]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:442][606]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:442][606]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:442][606]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:442][606]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:442][606]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:442][606]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:442][606]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:442][606]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:442][606]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:462][607]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:462][607]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:462][607]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:462][607]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:462][607]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:462][607]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:462][607]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:462][607]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:462][607]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:479][608]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:479][608]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:479][608]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:479][608]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:479][608]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:479][608]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:497][609]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:497][609]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:497][609]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:497][609]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:515][610]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:515][610]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:515][610]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:602][615]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:602][615]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:602][615]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:602][615]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:620][616]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:620][616]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:620][616]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:620][616]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:639][617]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:639][617]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:639][617]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:639][617]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:657][618]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:657][618]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:657][618]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:657][618]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:657][618]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:674][619]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:674][619]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:674][619]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:674][619]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:674][619]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:691][620]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:691][620]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:691][620]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:691][620]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:691][620]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:691][620]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:691][620]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:708][621]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:708][621]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:708][621]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:708][621]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:708][621]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:708][621]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:708][621]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:728][622]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:728][622]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:728][622]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:728][622]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:728][622]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:728][622]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:728][622]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:749][623]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:749][623]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:749][623]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:749][623]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:749][623]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:749][623]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:749][623]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:766][624]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:766][624]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:766][624]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:766][624]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:782][625]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:782][625]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:782][625]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:782][625]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:799][626]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:799][626]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:816][627]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:816][627]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:833][628]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:834][628]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:851][629]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:851][629]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:867][630]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:867][630]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:883][631]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:883][631]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:901][632]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:901][632]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.38:917][633]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.39:044][640]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.39:044][640]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.39:063][641]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.39:064][641]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.39:080][642]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.39:080][642]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.39:097][643]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.39:116][644]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.39:134][645]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.39:154][646]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.39:172][647]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.39:189][648]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.39:206][649]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.39:222][650]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.39:238][651]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.46:909][111]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.46:910][111]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.46:928][112]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.46:928][112]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.46:928][112]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.46:947][113]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.46:947][113]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.46:947][113]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.46:963][114]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.46:964][114]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.46:964][114]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:791][164]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:791][164]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:791][164]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:791][164]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:807][165]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:807][165]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:807][165]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:807][165]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:807][165]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:823][166]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:823][166]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:823][166]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:824][166]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:824][166]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:843][167]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:843][167]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:843][167]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:843][167]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:843][167]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:843][167]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:843][167]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:860][168]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:860][168]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:860][168]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:860][168]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:860][168]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:860][168]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:860][168]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:877][169]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:877][169]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:877][169]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:877][169]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:877][169]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:877][169]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:877][169]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:895][170]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:895][170]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:895][170]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:895][170]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:895][170]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:895][170]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:895][170]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:895][170]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:912][171]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:912][171]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:912][171]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:912][171]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:912][171]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:912][171]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:913][171]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:913][171]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:930][172]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:930][172]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:930][172]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:930][172]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:930][172]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:930][172]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:930][172]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:930][172]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:949][173]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:949][173]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:949][173]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:949][173]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:949][173]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:949][173]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:949][173]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:949][173]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:967][174]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:967][174]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:967][174]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:967][174]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:968][174]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:968][174]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:968][174]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:968][174]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:984][175]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:984][175]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:984][175]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:984][175]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:984][175]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:984][175]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:984][175]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.47:984][175]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:000][176]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:000][176]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:000][176]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:000][176]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:000][176]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:000][176]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:000][176]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:017][177]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:017][177]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:017][177]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:017][177]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:017][177]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:017][177]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:017][177]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:033][178]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:033][178]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:034][178]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:034][178]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:034][178]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:034][178]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:034][178]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:054][179]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:054][179]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:054][179]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:054][179]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:054][179]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:054][179]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:054][179]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:070][180]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:070][180]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:070][180]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:070][180]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:070][180]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:070][180]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:070][180]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:087][181]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:087][181]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:087][181]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:087][181]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:087][181]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:104][182]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:104][182]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:104][182]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:104][182]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:122][183]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:122][183]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:139][184]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:139][184]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:159][185]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:179][186]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.48:719][218]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Inventory : Open
+[2017.11.11-11.28.49:740][278]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Inventory : Close
+[2017.11.11-11.28.49:859][285]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.49:876][286]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.49:892][287]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.49:908][288]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.49:925][289]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.49:943][290]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.49:958][291]LogBlueprintUserMessages: [LeapMotionCharacter_C_0] Swipe in the world
+[2017.11.11-11.28.50:059][297]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.11.11-11.28.50:147][297]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.11.11-11.46.26:112][893]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.11-11.46.26:555][894]Cmd: QUIT_EDITOR
+[2017.11.11-11.46.27:686][894]LogExit: Preparing to exit.
+[2017.11.11-11.46.29:091][894]LogDirectoryWatcher: A directory notification for 'C:/Users/Nicolas/Documents/LeapMotionGit/tmp_arvr/Content/' was aborted.
+[2017.11.11-11.46.29:429][894]LogExit: Editor shut down
+[2017.11.11-11.46.29:450][894]LogExit: Transaction tracking system shut down
+[2017.11.11-11.46.29:955][894]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.11.11-11.46.29:955][894]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Nicolas/Documents/LeapMotionGit/tmp_arvr/Content/' was aborted.
+[2017.11.11-11.46.29:955][894]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.11.11-11.46.29:955][894]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2017.11.11-11.46.29:955][894]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2017.11.11-11.46.29:955][894]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/LeapMotion/Content/' was aborted.
+[2017.11.11-11.46.29:955][894]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.11.11-11.46.29:955][894]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.11.11-11.46.30:763][894]LogExit: Object subsystem successfully closed.
+[2017.11.11-11.46.30:955][894]LogD3D11RHI: Shutdown
+[2017.11.11-11.46.30:977][894]LogD3D11RHI: CleanupD3DDevice
+[2017.11.11-11.46.31:004][894]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.11.11-11.46.31:544][894]LogModuleManager: Shutting down and abandoning module BlueprintGraph (554)
+[2017.11.11-11.46.31:544][894]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (552)
+[2017.11.11-11.46.31:544][894]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (550)
+[2017.11.11-11.46.31:544][894]LogModuleManager: Shutting down and abandoning module SceneOutliner (548)
+[2017.11.11-11.46.31:553][894]LogModuleManager: Shutting down and abandoning module AddContentDialog (546)
+[2017.11.11-11.46.31:567][894]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2017.11.11-11.46.31:582][894]LogModuleManager: Shutting down and abandoning module WidgetCarousel (545)
+[2017.11.11-11.46.31:582][894]LogModuleManager: Shutting down and abandoning module EditorWidgets (542)
+[2017.11.11-11.46.31:582][894]LogModuleManager: Shutting down and abandoning module CollectionManager (540)
+[2017.11.11-11.46.31:605][894]LogDirectoryWatcher: A directory notification for 'C:/Users/Nicolas/Documents/LeapMotionGit/tmp_arvr/Content/Collections/' was aborted.
+[2017.11.11-11.46.31:606][894]LogDirectoryWatcher: A directory notification for 'C:/Users/Nicolas/Documents/LeapMotionGit/tmp_arvr/Content/Developers/Nicolas/Collections/' was aborted.
+[2017.11.11-11.46.31:606][894]LogDirectoryWatcher: A directory notification for 'C:/Users/Nicolas/Documents/LeapMotionGit/tmp_arvr/Saved/Collections/' was aborted.
+[2017.11.11-11.46.31:606][894]LogModuleManager: Shutting down and abandoning module StatsViewer (538)
+[2017.11.11-11.46.31:713][894]LogModuleManager: Shutting down and abandoning module FoliageEdit (536)
+[2017.11.11-11.46.31:731][894]LogModuleManager: Shutting down and abandoning module LandscapeEditor (534)
+[2017.11.11-11.46.31:760][894]LogModuleManager: Shutting down and abandoning module MeshPaintMode (532)
+[2017.11.11-11.46.31:760][894]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (530)
+[2017.11.11-11.46.31:760][894]LogModuleManager: Shutting down and abandoning module ActorPickerMode (528)
+[2017.11.11-11.46.31:760][894]LogModuleManager: Shutting down and abandoning module GeometryMode (526)
+[2017.11.11-11.46.31:760][894]LogModuleManager: Shutting down and abandoning module TextureAlignMode (524)
+[2017.11.11-11.46.31:760][894]LogModuleManager: Shutting down and abandoning module BspMode (522)
+[2017.11.11-11.46.31:760][894]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (520)
+[2017.11.11-11.46.31:760][894]LogModuleManager: Shutting down and abandoning module HardwareSurvey (518)
+[2017.11.11-11.46.31:760][894]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (516)
+[2017.11.11-11.46.31:770][894]LogModuleManager: Shutting down and abandoning module AutomationWorker (514)
+[2017.11.11-11.46.31:775][894]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (512)
+[2017.11.11-11.46.31:783][894]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (510)
+[2017.11.11-11.46.31:830][894]LogModuleManager: Shutting down and abandoning module PlacementMode (509)
+[2017.11.11-11.46.31:831][894]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (506)
+[2017.11.11-11.46.31:831][894]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (504)
+[2017.11.11-11.46.31:831][894]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (502)
+[2017.11.11-11.46.31:831][894]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (500)
+[2017.11.11-11.46.31:831][894]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (498)
+[2017.11.11-11.46.31:831][894]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (496)
+[2017.11.11-11.46.31:831][894]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (494)
+[2017.11.11-11.46.31:831][894]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (492)
+[2017.11.11-11.46.31:831][894]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (490)
+[2017.11.11-11.46.31:831][894]LogModuleManager: Shutting down and abandoning module CharacterAI (488)
+[2017.11.11-11.46.31:831][894]LogModuleManager: Shutting down and abandoning module AudioCapture (486)
+[2017.11.11-11.46.31:838][894]LogModuleManager: Shutting down and abandoning module SequenceRecorder (485)
+[2017.11.11-11.46.31:856][894]LogModuleManager: Shutting down and abandoning module SmartSnapping (482)
+[2017.11.11-11.46.31:856][894]LogModuleManager: Shutting down and abandoning module SessionServices (480)
+[2017.11.11-11.46.31:856][894]LogModuleManager: Shutting down and abandoning module ViewportSnapping (478)
+[2017.11.11-11.46.31:856][894]LogModuleManager: Shutting down and abandoning module ViewportInteraction (476)
+[2017.11.11-11.46.31:856][894]LogModuleManager: Shutting down and abandoning module ClothPainter (474)
+[2017.11.11-11.46.31:883][894]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (473)
+[2017.11.11-11.46.31:884][894]LogModuleManager: Shutting down and abandoning module LogVisualizer (470)
+[2017.11.11-11.46.31:902][894]LogModuleManager: Shutting down and abandoning module IntroTutorials (468)
+[2017.11.11-11.46.31:923][894]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (467)
+[2017.11.11-11.46.31:933][894]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (464)
+[2017.11.11-11.46.31:942][894]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (462)
+[2017.11.11-11.46.31:943][894]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (460)
+[2017.11.11-11.46.31:943][894]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (459)
+[2017.11.11-11.46.32:787][894]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (456)
+[2017.11.11-11.46.32:787][894]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (454)
+[2017.11.11-11.46.32:787][894]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (452)
+[2017.11.11-11.46.32:787][894]LogModuleManager: Shutting down and abandoning module InputBindingEditor (450)
+[2017.11.11-11.46.32:809][894]LogModuleManager: Shutting down and abandoning module MergeActors (448)
+[2017.11.11-11.46.32:848][894]LogModuleManager: Shutting down and abandoning module SizeMap (446)
+[2017.11.11-11.46.32:848][894]LogModuleManager: Shutting down and abandoning module TreeMap (444)
+[2017.11.11-11.46.32:855][894]LogModuleManager: Shutting down and abandoning module ReferenceViewer (442)
+[2017.11.11-11.46.32:855][894]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (440)
+[2017.11.11-11.46.32:863][894]LogModuleManager: Shutting down and abandoning module LocalizationService (439)
+[2017.11.11-11.46.32:869][894]LogModuleManager: Shutting down and abandoning module HardwareTargeting (436)
+[2017.11.11-11.46.32:869][894]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (434)
+[2017.11.11-11.46.32:869][894]LogModuleManager: Shutting down and abandoning module UndoHistory (432)
+[2017.11.11-11.46.32:869][894]LogModuleManager: Shutting down and abandoning module XmlParser (430)
+[2017.11.11-11.46.32:873][894]LogModuleManager: Shutting down and abandoning module Blutility (428)
+[2017.11.11-11.46.32:873][894]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (426)
+[2017.11.11-11.46.32:873][894]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (425)
+[2017.11.11-11.46.32:873][894]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (422)
+[2017.11.11-11.46.32:873][894]LogModuleManager: Shutting down and abandoning module SettingsEditor (420)
+[2017.11.11-11.46.32:879][894]LogModuleManager: Shutting down and abandoning module ProjectLauncher (418)
+[2017.11.11-11.46.32:887][894]LogModuleManager: Shutting down and abandoning module SessionFrontend (416)
+[2017.11.11-11.46.32:898][894]LogModuleManager: Shutting down and abandoning module ProfilerClient (414)
+[2017.11.11-11.46.32:902][894]LogModuleManager: Shutting down and abandoning module DeviceManager (412)
+[2017.11.11-11.46.32:912][894]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (411)
+[2017.11.11-11.46.32:965][894]LogModuleManager: Shutting down and abandoning module AutomationController (408)
+[2017.11.11-11.46.33:005][894]LogModuleManager: Shutting down and abandoning module AutomationWindow (406)
+[2017.11.11-11.46.33:031][894]LogModuleManager: Shutting down and abandoning module Layers (404)
+[2017.11.11-11.46.33:050][894]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (402)
+[2017.11.11-11.46.33:050][894]LogModuleManager: Shutting down and abandoning module DetailCustomizations (400)
+[2017.11.11-11.46.33:060][894]LogModuleManager: Shutting down and abandoning module PackagesDialog (398)
+[2017.11.11-11.46.33:068][894]LogModuleManager: Shutting down and abandoning module Persona (396)
+[2017.11.11-11.46.33:092][894]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (395)
+[2017.11.11-11.46.33:092][894]LogModuleManager: Shutting down and abandoning module AnimGraph (393)
+[2017.11.11-11.46.33:092][894]LogModuleManager: Shutting down and abandoning module Kismet (390)
+[2017.11.11-11.46.33:114][894]LogModuleManager: Shutting down and abandoning module ClassViewer (388)
+[2017.11.11-11.46.33:115][894]LogModuleManager: Shutting down and abandoning module Toolbox (386)
+[2017.11.11-11.46.33:115][894]LogModuleManager: Shutting down and abandoning module ModuleUI (384)
+[2017.11.11-11.46.33:138][894]LogModuleManager: Shutting down and abandoning module MovieSceneTools (382)
+[2017.11.11-11.46.33:191][894]LogModuleManager: Shutting down and abandoning module OutputLog (380)
+[2017.11.11-11.46.33:197][894]LogModuleManager: Shutting down and abandoning module GammaUI (378)
+[2017.11.11-11.46.33:201][894]LogModuleManager: Shutting down and abandoning module Documentation (376)
+[2017.11.11-11.46.33:201][894]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (374)
+[2017.11.11-11.46.33:201][894]LogModuleManager: Shutting down and abandoning module MovieScene (372)
+[2017.11.11-11.46.33:201][894]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (370)
+[2017.11.11-11.46.33:201][894]LogModuleManager: Shutting down and abandoning module LauncherPlatform (368)
+[2017.11.11-11.46.33:201][894]LogModuleManager: Shutting down and abandoning module AnalyticsET (366)
+[2017.11.11-11.46.33:201][894]LogModuleManager: Shutting down and abandoning module PortalServices (364)
+[2017.11.11-11.46.33:201][894]LogModuleManager: Shutting down and abandoning module PortalRpc (362)
+[2017.11.11-11.46.33:201][894]LogModuleManager: Shutting down and abandoning module MessagingRpc (360)
+[2017.11.11-11.46.33:201][894]LogModuleManager: Shutting down and abandoning module AIModule (358)
+[2017.11.11-11.46.33:201][894]LogModuleManager: Shutting down and abandoning module GameplayDebugger (357)
+[2017.11.11-11.46.33:201][894]LogModuleManager: Shutting down and abandoning module AITestSuite (355)
+[2017.11.11-11.46.33:209][894]LogModuleManager: Shutting down and abandoning module DesktopPlatform (352)
+[2017.11.11-11.46.33:209][894]LogModuleManager: Shutting down and abandoning module ProfilerService (350)
+[2017.11.11-11.46.33:209][894]LogModuleManager: Shutting down and abandoning module TaskGraph (348)
+[2017.11.11-11.46.33:220][894]LogModuleManager: Shutting down and abandoning module SteamVRController (346)
+[2017.11.11-11.46.33:220][894]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (344)
+[2017.11.11-11.46.33:220][894]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (342)
+[2017.11.11-11.46.33:220][894]LogModuleManager: Shutting down and abandoning module OculusInput (340)
+[2017.11.11-11.46.33:227][894]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (338)
+[2017.11.11-11.46.33:227][894]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (336)
+[2017.11.11-11.46.33:227][894]LogModuleManager: Shutting down and abandoning module CableComponent (334)
+[2017.11.11-11.46.33:234][894]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (332)
+[2017.11.11-11.46.33:234][894]LogModuleManager: Shutting down and abandoning module AndroidPermission (330)
+[2017.11.11-11.46.33:234][894]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2017.11.11-11.46.33:234][894]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (324)
+[2017.11.11-11.46.33:247][894]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (322)
+[2017.11.11-11.46.33:247][894]LogModuleManager: Shutting down and abandoning module MediaCompositing (320)
+[2017.11.11-11.46.33:248][894]LogModuleManager: Shutting down and abandoning module HTML5Networking (318)
+[2017.11.11-11.46.33:248][894]LogModuleManager: Shutting down and abandoning module AlembicImporter (316)
+[2017.11.11-11.46.33:256][894]LogModuleManager: Shutting down and abandoning module AlembicLibrary (315)
+[2017.11.11-11.46.33:256][894]LogModuleManager: Shutting down and abandoning module GeometryCache (314)
+[2017.11.11-11.46.33:266][894]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (313)
+[2017.11.11-11.46.33:266][894]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (308)
+[2017.11.11-11.46.33:266][894]LogModuleManager: Shutting down and abandoning module PluginBrowser (306)
+[2017.11.11-11.46.33:283][894]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (304)
+[2017.11.11-11.46.33:296][894]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (302)
+[2017.11.11-11.46.33:296][894]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (300)
+[2017.11.11-11.46.33:296][894]LogModuleManager: Shutting down and abandoning module UObjectPlugin (298)
+[2017.11.11-11.46.33:296][894]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (296)
+[2017.11.11-11.46.33:306][894]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (294)
+[2017.11.11-11.46.33:316][894]LogModuleManager: Shutting down and abandoning module GitSourceControl (292)
+[2017.11.11-11.46.33:320][894]LogModuleManager: Shutting down and abandoning module SourceControl (291)
+[2017.11.11-11.46.33:331][894]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (288)
+[2017.11.11-11.46.33:331][894]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (286)
+[2017.11.11-11.46.33:331][894]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (284)
+[2017.11.11-11.46.33:331][894]LogModuleManager: Shutting down and abandoning module Paper2DEditor (282)
+[2017.11.11-11.46.33:348][894]LogModuleManager: Shutting down and abandoning module MeshPaint (281)
+[2017.11.11-11.46.33:353][894]LogModuleManager: Shutting down and abandoning module LevelEditor (279)
+[2017.11.11-11.46.33:369][894]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (278)
+[2017.11.11-11.46.33:384][894]LogModuleManager: Shutting down and abandoning module MainFrame (276)
+[2017.11.11-11.46.33:391][894]LogModuleManager: Shutting down and abandoning module HotReload (275)
+[2017.11.11-11.46.33:396][894]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (270)
+[2017.11.11-11.46.33:396][894]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (268)
+[2017.11.11-11.46.33:396][894]LogModuleManager: Shutting down and abandoning module PhysXVehicles (266)
+[2017.11.11-11.46.33:397][894]LogModuleManager: Shutting down and abandoning module OculusEditor (264)
+[2017.11.11-11.46.33:397][894]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (262)
+[2017.11.11-11.46.33:397][894]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (260)
+[2017.11.11-11.46.33:397][894]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (258)
+[2017.11.11-11.46.33:397][894]LogModuleManager: Shutting down and abandoning module UdpMessaging (256)
+[2017.11.11-11.46.33:522][894]LogModuleManager: Shutting down and abandoning module TcpMessaging (254)
+[2017.11.11-11.46.33:632][894]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (252)
+[2017.11.11-11.46.33:671][894]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (250)
+[2017.11.11-11.46.33:671][894]LogModuleManager: Shutting down and abandoning module FacialAnimation (248)
+[2017.11.11-11.46.33:671][894]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (246)
+[2017.11.11-11.46.33:677][894]LogModuleManager: Shutting down and abandoning module GraphEditor (245)
+[2017.11.11-11.46.33:677][894]LogModuleManager: Shutting down and abandoning module ContentBrowser (243)
+[2017.11.11-11.46.33:678][894]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (240)
+[2017.11.11-11.46.33:679][894]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2017.11.11-11.46.33:679][894]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2017.11.11-11.46.33:687][894]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2017.11.11-11.46.33:692][894]LogModuleManager: Shutting down and abandoning module ImgMedia (232)
+[2017.11.11-11.46.33:693][894]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2017.11.11-11.46.33:693][894]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2017.11.11-11.46.33:693][894]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2017.11.11-11.46.33:696][894]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2017.11.11-11.46.33:696][894]LogModuleManager: Shutting down and abandoning module Media (223)
+[2017.11.11-11.46.33:703][894]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2017.11.11-11.46.33:703][894]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2017.11.11-11.46.33:703][894]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2017.11.11-11.46.33:709][894]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2017.11.11-11.46.33:712][894]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2017.11.11-11.46.33:712][894]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2017.11.11-11.46.33:733][894]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2017.11.11-11.46.33:740][894]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2017.11.11-11.46.33:750][894]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2017.11.11-11.46.33:750][894]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2017.11.11-11.46.33:754][894]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2017.11.11-11.46.33:770][894]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2017.11.11-11.46.33:787][894]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2017.11.11-11.46.33:787][894]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2017.11.11-11.46.33:812][894]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2017.11.11-11.46.33:813][894]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2017.11.11-11.46.33:817][894]LogModuleManager: Shutting down and abandoning module MRMesh (186)
+[2017.11.11-11.46.33:817][894]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (184)
+[2017.11.11-11.46.33:817][894]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (182)
+[2017.11.11-11.46.33:817][894]LogModuleManager: Shutting down and abandoning module XAudio2 (180)
+[2017.11.11-11.46.33:817][894]LogModuleManager: Shutting down and abandoning module Networking (178)
+[2017.11.11-11.46.33:818][894]LogModuleManager: Shutting down and abandoning module Core (174)
+[2017.11.11-11.46.33:818][894]LogModuleManager: Shutting down and abandoning module LevelSequence (170)
+[2017.11.11-11.46.33:832][894]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (168)
+[2017.11.11-11.46.33:843][894]LogModuleManager: Shutting down and abandoning module KismetCompiler (166)
+[2017.11.11-11.46.33:843][894]LogModuleManager: Shutting down and abandoning module MeshUtilities (164)
+[2017.11.11-11.46.33:853][894]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (163)
+[2017.11.11-11.46.33:863][894]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (162)
+[2017.11.11-11.46.33:863][894]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (161)
+[2017.11.11-11.46.33:871][894]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (159)
+[2017.11.11-11.46.33:871][894]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (157)
+[2017.11.11-11.46.33:875][894]LogModuleManager: Shutting down and abandoning module MaterialBaking (153)
+[2017.11.11-11.46.33:884][894]LogModuleManager: Shutting down and abandoning module DerivedDataCache (150)
+[2017.11.11-11.46.33:972][894]LogDerivedDataCache: Shutdown
+[2017.11.11-11.46.33:972][894]LogModuleManager: Shutting down and abandoning module TargetPlatform (148)
+[2017.11.11-11.46.33:972][894]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (147)
+[2017.11.11-11.46.33:978][894]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (145)
+[2017.11.11-11.46.33:981][894]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (143)
+[2017.11.11-11.46.33:987][894]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (141)
+[2017.11.11-11.46.33:987][894]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (139)
+[2017.11.11-11.46.33:996][894]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (137)
+[2017.11.11-11.46.33:996][894]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (135)
+[2017.11.11-11.46.33:996][894]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (133)
+[2017.11.11-11.46.33:996][894]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (131)
+[2017.11.11-11.46.33:996][894]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (129)
+[2017.11.11-11.46.33:996][894]LogModuleManager: Shutting down and abandoning module ImageWrapper (128)
+[2017.11.11-11.46.33:996][894]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (125)
+[2017.11.11-11.46.33:996][894]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (123)
+[2017.11.11-11.46.33:996][894]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (121)
+[2017.11.11-11.46.33:996][894]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (119)
+[2017.11.11-11.46.33:996][894]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2017.11.11-11.46.33:996][894]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2017.11.11-11.46.33:996][894]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2017.11.11-11.46.33:996][894]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2017.11.11-11.46.33:996][894]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2017.11.11-11.46.33:996][894]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2017.11.11-11.46.33:997][894]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2017.11.11-11.46.33:997][894]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2017.11.11-11.46.33:997][894]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2017.11.11-11.46.33:997][894]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (99)
+[2017.11.11-11.46.33:997][894]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (97)
+[2017.11.11-11.46.33:997][894]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (95)
+[2017.11.11-11.46.33:997][894]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (93)
+[2017.11.11-11.46.33:997][894]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2017.11.11-11.46.33:997][894]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2017.11.11-11.46.33:997][894]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2017.11.11-11.46.33:997][894]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2017.11.11-11.46.33:997][894]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2017.11.11-11.46.33:997][894]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2017.11.11-11.46.33:997][894]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2017.11.11-11.46.33:997][894]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2017.11.11-11.46.33:997][894]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2017.11.11-11.46.33:997][894]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2017.11.11-11.46.33:997][894]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2017.11.11-11.46.33:997][894]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2017.11.11-11.46.33:997][894]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2017.11.11-11.46.33:997][894]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2017.11.11-11.46.33:997][894]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2017.11.11-11.46.33:997][894]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2017.11.11-11.46.33:997][894]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2017.11.11-11.46.34:005][894]LogModuleManager: Shutting down and abandoning module LeapMotion (56)
+[2017.11.11-11.46.34:005][894]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2017.11.11-11.46.34:005][894]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2017.11.11-11.46.34:005][894]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2017.11.11-11.46.34:005][894]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.11.11-11.46.34:005][894]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.11.11-11.46.34:014][894]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.11.11-11.46.34:033][894]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.11.11-11.46.34:033][894]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.11.11-11.46.34:037][894]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6C9D066B-428D-2BCD-5651-2F9C54BC6D6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.0-3709383%2B%2B%2BUE4%2BRelease-4.18&UserID=79a8be514037e7bbbe508eb2c74a91c8%7C258499f2ef7c431bb737538e467a329b%7C4c6e19af-70c2-4741-9c57-4b76d39b17c1&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.11.11-11.46.34:045][894]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.11.11-11.46.34:050][894]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.11.11-11.46.34:056][894]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.11.11-11.46.34:056][894]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.11.11-11.46.34:065][894]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.11.11-11.46.34:072][894]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.11.11-11.46.34:072][894]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.11.11-11.46.34:072][894]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.11.11-11.46.34:083][894]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.11.11-11.46.34:087][894]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.11.11-11.46.34:087][894]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.11.11-11.46.34:095][894]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.11.11-11.46.34:095][894]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.11.11-11.46.34:116][894]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.11.11-11.46.34:116][894]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.11.11-11.46.34:140][894]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.11.11-11.46.34:140][894]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.11.11-11.46.34:144][894]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.11.11-11.46.34:144][894]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.11.11-11.46.34:167][894]LogExit: Exiting.
+[2017.11.11-11.46.34:190][894]Log file closed, 11/11/17 12:46:34
